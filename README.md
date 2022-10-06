@@ -1,1 +1,1 @@
-<h1>Hackgwinnett GitHub Workshop 2022</h1>
+<h1>HackGwinnett 2.0 GitHub Workshop</h1>

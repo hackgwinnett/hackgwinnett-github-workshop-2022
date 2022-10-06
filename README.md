@@ -1,4 +1,7 @@
-<h1>HackGwinnett 2.0 GitHub Workshop</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hackgwinnett/hackgwinnett.github.io/main/images/homelogo.png" width="150px">
+  <h1 align="center">HackGwinnett 2.0 GitHub Workshop</h1>
+</p>
 
 <h4>Pull Requests within GitHub</h4>
 <pre>

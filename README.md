@@ -1,2 +1,1 @@
-# hackgwinnett-github-workshop-2022
-Repository for HackGwinnett 2.0 GitHub Workshop
+<h1>Hackgwinnett GitHub Workshop 2022</h1>

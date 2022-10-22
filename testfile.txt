@@ -1,3 +1,6 @@
 Hello, World!
 
 some added text from my pull request!
+
+voicelines = "Our bond is strong! Stand with me! Dissipate!"
+burstvoicelines = "Lightning purifies! Out of my way! I'll settle this!"

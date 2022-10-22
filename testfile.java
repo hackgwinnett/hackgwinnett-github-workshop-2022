@@ -3,7 +3,7 @@
 //some added text from my pull request!
 //Add something here
 
-pubic class Women {
+public class Women {
 String name;
 int age;
 double weight;
